@@ -1,13 +1,6 @@
-											//////////////////////////////////////////////////
-											//         CPSC 331 Assignment #3               //
-											//           Sodienye Nkwonta			        //
-											//             ID#: 30000197                    //
-											//////////////////////////////////////////////////
-
-
 import java.util.*;
 
-public class Assignment3 {
+public class truthtable {
 
 	public static void main(String[] args) {
 		// Section S3
